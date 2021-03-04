@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/fivething-website/static/css/main.7851cb65.chunk.css",
-    "main.js": "/fivething-website/static/js/main.f1ca640d.chunk.js",
-    "main.js.map": "/fivething-website/static/js/main.f1ca640d.chunk.js.map",
+    "main.css": "/fivething-website/static/css/main.f73f14d9.chunk.css",
+    "main.js": "/fivething-website/static/js/main.fa97fbd4.chunk.js",
+    "main.js.map": "/fivething-website/static/js/main.fa97fbd4.chunk.js.map",
     "runtime-main.js": "/fivething-website/static/js/runtime-main.c03ba503.js",
     "runtime-main.js.map": "/fivething-website/static/js/runtime-main.c03ba503.js.map",
     "static/js/2.32e4f8e0.chunk.js": "/fivething-website/static/js/2.32e4f8e0.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.8a20fa7c.chunk.js": "/fivething-website/static/js/3.8a20fa7c.chunk.js",
     "static/js/3.8a20fa7c.chunk.js.map": "/fivething-website/static/js/3.8a20fa7c.chunk.js.map",
     "index.html": "/fivething-website/index.html",
-    "static/css/main.7851cb65.chunk.css.map": "/fivething-website/static/css/main.7851cb65.chunk.css.map",
+    "static/css/main.f73f14d9.chunk.css.map": "/fivething-website/static/css/main.f73f14d9.chunk.css.map",
     "static/js/2.32e4f8e0.chunk.js.LICENSE.txt": "/fivething-website/static/js/2.32e4f8e0.chunk.js.LICENSE.txt",
     "static/media/Alt-F4-Imp-Logo.1dc34fe6.svg": "/fivething-website/static/media/Alt-F4-Imp-Logo.1dc34fe6.svg",
     "static/media/Andrei-Photo.23894165.png": "/fivething-website/static/media/Andrei-Photo.23894165.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.c03ba503.js",
     "static/js/2.32e4f8e0.chunk.js",
-    "static/css/main.7851cb65.chunk.css",
-    "static/js/main.f1ca640d.chunk.js"
+    "static/css/main.f73f14d9.chunk.css",
+    "static/js/main.fa97fbd4.chunk.js"
   ]
 }
