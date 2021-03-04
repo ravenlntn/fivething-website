@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/fivething-website/static/css/main.5c798747.chunk.css",
+    "main.js": "/fivething-website/static/js/main.ac4d3594.chunk.js",
+    "main.js.map": "/fivething-website/static/js/main.ac4d3594.chunk.js.map",
+    "runtime-main.js": "/fivething-website/static/js/runtime-main.2b939ffd.js",
+    "runtime-main.js.map": "/fivething-website/static/js/runtime-main.2b939ffd.js.map",
+    "static/js/2.e7e5e813.chunk.js": "/fivething-website/static/js/2.e7e5e813.chunk.js",
+    "static/js/2.e7e5e813.chunk.js.map": "/fivething-website/static/js/2.e7e5e813.chunk.js.map",
+    "static/js/3.b3f9b64f.chunk.js": "/fivething-website/static/js/3.b3f9b64f.chunk.js",
+    "static/js/3.b3f9b64f.chunk.js.map": "/fivething-website/static/js/3.b3f9b64f.chunk.js.map",
+    "index.html": "/fivething-website/index.html",
+    "static/css/main.5c798747.chunk.css.map": "/fivething-website/static/css/main.5c798747.chunk.css.map",
+    "static/js/2.e7e5e813.chunk.js.LICENSE.txt": "/fivething-website/static/js/2.e7e5e813.chunk.js.LICENSE.txt",
+    "static/media/Alt-F4-Imp-Logo.1dc34fe6.svg": "/fivething-website/static/media/Alt-F4-Imp-Logo.1dc34fe6.svg",
+    "static/media/Andrei-Photo.23894165.png": "/fivething-website/static/media/Andrei-Photo.23894165.png",
+    "static/media/Blobs-ContactUs.0fbf28f2.svg": "/fivething-website/static/media/Blobs-ContactUs.0fbf28f2.svg",
+    "static/media/Blobs-Home.dd47cfc7.svg": "/fivething-website/static/media/Blobs-Home.dd47cfc7.svg",
+    "static/media/Blobs-Project.9f4f3930.svg": "/fivething-website/static/media/Blobs-Project.9f4f3930.svg",
+    "static/media/Contactus-undraw.06807767.svg": "/fivething-website/static/media/Contactus-undraw.06807767.svg",
+    "static/media/Glendell-Photo.d334b394.png": "/fivething-website/static/media/Glendell-Photo.d334b394.png",
+    "static/media/Home-undraw.f5ef91ba.svg": "/fivething-website/static/media/Home-undraw.f5ef91ba.svg",
+    "static/media/Pat-Photo.44797a09.png": "/fivething-website/static/media/Pat-Photo.44797a09.png",
+    "static/media/Raven-Photo.4fff3a06.png": "/fivething-website/static/media/Raven-Photo.4fff3a06.png",
+    "static/media/mock-up.5a9d0f3f.png": "/fivething-website/static/media/mock-up.5a9d0f3f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b939ffd.js",
+    "static/js/2.e7e5e813.chunk.js",
+    "static/css/main.5c798747.chunk.css",
+    "static/js/main.ac4d3594.chunk.js"
+  ]
+}
