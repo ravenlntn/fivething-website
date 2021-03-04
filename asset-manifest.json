@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/fivething-website/static/css/main.5c798747.chunk.css",
-    "main.js": "/fivething-website/static/js/main.ac4d3594.chunk.js",
-    "main.js.map": "/fivething-website/static/js/main.ac4d3594.chunk.js.map",
-    "runtime-main.js": "/fivething-website/static/js/runtime-main.2b939ffd.js",
-    "runtime-main.js.map": "/fivething-website/static/js/runtime-main.2b939ffd.js.map",
-    "static/js/2.e7e5e813.chunk.js": "/fivething-website/static/js/2.e7e5e813.chunk.js",
-    "static/js/2.e7e5e813.chunk.js.map": "/fivething-website/static/js/2.e7e5e813.chunk.js.map",
-    "static/js/3.b3f9b64f.chunk.js": "/fivething-website/static/js/3.b3f9b64f.chunk.js",
-    "static/js/3.b3f9b64f.chunk.js.map": "/fivething-website/static/js/3.b3f9b64f.chunk.js.map",
+    "main.css": "/fivething-website/static/css/main.7851cb65.chunk.css",
+    "main.js": "/fivething-website/static/js/main.f1ca640d.chunk.js",
+    "main.js.map": "/fivething-website/static/js/main.f1ca640d.chunk.js.map",
+    "runtime-main.js": "/fivething-website/static/js/runtime-main.c03ba503.js",
+    "runtime-main.js.map": "/fivething-website/static/js/runtime-main.c03ba503.js.map",
+    "static/js/2.32e4f8e0.chunk.js": "/fivething-website/static/js/2.32e4f8e0.chunk.js",
+    "static/js/2.32e4f8e0.chunk.js.map": "/fivething-website/static/js/2.32e4f8e0.chunk.js.map",
+    "static/js/3.8a20fa7c.chunk.js": "/fivething-website/static/js/3.8a20fa7c.chunk.js",
+    "static/js/3.8a20fa7c.chunk.js.map": "/fivething-website/static/js/3.8a20fa7c.chunk.js.map",
     "index.html": "/fivething-website/index.html",
-    "static/css/main.5c798747.chunk.css.map": "/fivething-website/static/css/main.5c798747.chunk.css.map",
-    "static/js/2.e7e5e813.chunk.js.LICENSE.txt": "/fivething-website/static/js/2.e7e5e813.chunk.js.LICENSE.txt",
+    "static/css/main.7851cb65.chunk.css.map": "/fivething-website/static/css/main.7851cb65.chunk.css.map",
+    "static/js/2.32e4f8e0.chunk.js.LICENSE.txt": "/fivething-website/static/js/2.32e4f8e0.chunk.js.LICENSE.txt",
     "static/media/Alt-F4-Imp-Logo.1dc34fe6.svg": "/fivething-website/static/media/Alt-F4-Imp-Logo.1dc34fe6.svg",
     "static/media/Andrei-Photo.23894165.png": "/fivething-website/static/media/Andrei-Photo.23894165.png",
     "static/media/Blobs-ContactUs.0fbf28f2.svg": "/fivething-website/static/media/Blobs-ContactUs.0fbf28f2.svg",
@@ -25,9 +25,9 @@
     "static/media/mock-up.5a9d0f3f.png": "/fivething-website/static/media/mock-up.5a9d0f3f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b939ffd.js",
-    "static/js/2.e7e5e813.chunk.js",
-    "static/css/main.5c798747.chunk.css",
-    "static/js/main.ac4d3594.chunk.js"
+    "static/js/runtime-main.c03ba503.js",
+    "static/js/2.32e4f8e0.chunk.js",
+    "static/css/main.7851cb65.chunk.css",
+    "static/js/main.f1ca640d.chunk.js"
   ]
 }
